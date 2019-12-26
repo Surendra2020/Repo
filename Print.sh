@@ -1,1 +1,1 @@
-echo "test123"
+echo "Git Integration with jenkins is successful"
